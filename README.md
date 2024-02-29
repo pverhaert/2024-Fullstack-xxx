@@ -4,7 +4,7 @@
 
 | Pages    | Name                                  | Class   | GitHub Username                 |
 |:---------|:--------------------------------------| :------ | :------------------------------ |
-| student1 | [name 1](mailto:john.doe@example.com) | 1ITF xx | [name](https://github.com/name) |
+| student1 | [Patrick](mailto:patrick@example.com) | 1ITF xx | [name](https://github.com/name) |
 | student2 | [name 2](mailto:john.doe@example.com) | 1ITF xx | [name](https://github.com/name) |
 | student3 | [name 3](mailto:john.doe@example.com) | 1ITF xx | [name](https://github.com/name) |
 | student4 | [name 4](mailto:john.doe@example.com) | 1ITF xx | [name](https://github.com/name) |
